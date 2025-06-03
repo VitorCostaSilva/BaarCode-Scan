@@ -1,0 +1,4 @@
+dist/
+conferencia_estoque/
+*.spec
+build/
